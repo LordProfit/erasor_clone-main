@@ -20,7 +20,7 @@ function Header() {
             />
         </div>
         <Button className='gap-2 flex text-sm
-        h-8 hover:bg-blue-700 bg-blue-600
+        h-8 bg-pink-600  hover:bg-blue-400
         '> <Send className='h-4 w-4'/> Invite</Button>
     </div>
   )
